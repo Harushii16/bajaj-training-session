@@ -75,5 +75,5 @@ Through this training, I am improving:
 
 **Harushi Singla**
 
-MBA BFSI | B.Tech CSE Student  
-Learning Java, Backend Development & DSA
+B.Tech CSE Student  
+
