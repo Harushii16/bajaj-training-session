@@ -1,92 +1,79 @@
-# 🚀 Bajaj Session: DSA & Competitive Programming
+# Bajaj Training Session 🚀
 
-A structured collection of coding problems solved during the Bajaj session. This repository tracks my journey through various algorithmic patterns, LeetCode challenges, and Codeforces competitive programming problems.
+This repository contains my day-wise learning, coding practice, assignments, notes, and mini tasks completed during the Bajaj training sessions.
 
-## 📂 Repository Structure
-
-The project is organized by daily milestones and specific algorithmic patterns to ensure a logical learning curve.
-
-### 🗓️ Daily Training Modules
-
-* **Day 1: Sliding Window & Two Pointers**
-* Fixed and Variable size window techniques.
-* Subarray sum challenges (K-Sum).
-
-
-* **Day 2: Array Foundations**
-* Equilibrium Index, Range Sum Queries, and Array Splitting.
-
-
-* **Day 3: Search & OOP**
-* Binary Search implementations.
-* Core Java concepts: Inheritance, Overloading, and Overriding.
-
-
-* **Day 4 & 5: Advanced Logic & Strings**
-* Kadane’s Algorithm (Max Subarray).
-* LeetCode String problems (Anagrams, Palindromes, Ransom Note).
-
-
-* **Day 6 & 7: Linked Lists & Misc**
-* Add Two Numbers, Reverse Linked List, and character frequency logic.
-
-
-
-### 🧩 Problem Categories
-
-| Category | Key Problems |
-| --- | --- |
-| **Dynamic Programming** | Climbing Stairs, Coin Change, House Robber |
-| **Arrays** | Two Sum, Product of Array Except Self, Trapping Rain Water |
-| **Sliding Window** | Longest Substring Without Repeating Characters, Permutation in String |
-| **Graphs** | Number of Islands, Course Schedule |
-| **Competitive (Codeforces)** | Way Too Long Words, Beautiful Matrix, Kefa and First Steps |
+The purpose of this repository is to track my progress, improve problem-solving skills, strengthen backend development concepts, and maintain structured learning documentation.
 
 ---
 
-## 🛠️ Getting Started
+# 👨‍💻 Tech Stack
 
-### Prerequisites
+- Java
+- SQL
+- Git & GitHub
+- REST APIs
+- Spring Boot
+- Data Structures & Algorithms
 
-* **Java Development Kit (JDK) 8 or higher**
-* A terminal or IDE (IntelliJ IDEA, VS Code, or Eclipse)
+---
 
-### How to Run
-
-To run any specific solution, navigate to the root directory and use the following commands:
-
-```bash
-# Compile the file
-javac FolderName/FileName.java
-
-# Execute the program
-java FolderName.FileName
-
-```
-
-*Example:*
+# 📚 Repository Structure
 
 ```bash
-javac Day-1/MaxSubArray.java
-java Day-1.MaxSubArray
-
+bajaj-training-session/
+│
+├── Day-1/
+├── Day-2/
+├── Day-3/
+├── Day-4/
+├── Day-5/
+├── Day-6/
+├── Day-7/
+│
+└── README.md
 ```
 
 ---
 
-## 📈 Topics Covered
+# 📅 Day Wise Progress
 
-* [x] **Arrays & Strings** (Sliding Window, Two Pointers)
-* [x] **Searching & Sorting** (Binary Search)
-* [x] **Dynamic Programming** (Optimization problems)
-* [x] **Linked Lists** (Pointers & Manipulation)
-* [x] **Object-Oriented Programming** (Inheritance, Polymorphism)
-* [x] **Competitive Programming** (Codeforces standard problems)
+| Day | Topics Covered |
+|------|----------------|
+| Day 1 | Git, GitHub, Java Setup |
+| Day 2 | Java Basics |
+| Day 3 | OOP Concepts |
+| Day 4 | Collections Framework |
+| Day 5 | SQL & Database |
+| Day 6 | REST APIs |
+| Day 7 | DSA Practice |
 
 ---
 
-## 👤 Author
+# 🎯 Goals
 
-**Harshita**
+- Improve coding skills
+- Learn backend development
+- Practice DSA regularly
+- Build industry-ready projects
+- Maintain daily consistency
 
-* GitHub: [@harshiii456](https://www.google.com/search?q=https://github.com/harshiii456)
+---
+
+# 📌 Learning Outcomes
+
+Through this training, I am improving:
+- Problem solving ability
+- Java programming
+- Database handling
+- API development
+- Project structuring
+- GitHub workflow
+
+---
+
+# ✨ Author
+
+**Harushi Singla**
+
+MBA BFSI | B.Tech CSE Student  
+Learning Java, Backend Development & DSA
